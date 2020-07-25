@@ -8,6 +8,6 @@ public class Main {
         String file = "D:\\Java_Programms\\CrazyCalculator\\largecode.txt";
 
         prog.generateCodeForSecond(0, 10, file);
-
+        System.out.println("it works?");
     }
 }
